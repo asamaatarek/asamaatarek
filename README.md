@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I'm Asamaa Tarek
+**Aspiring DevOps Engineer** — focused on CI/CD, Containers, IaC, and Cloud.
+- 🔭 I’m currently: revisiting and improving my hands-on skills with Docker, Ansible, and Terraform.
+- 🌱 I’m learning more about Kubernetes and advanced AWS services.
+- 👯 I’m looking to collaborate on DevOps automation, infrastructure-as-code, and CI/CD projects.
 
 <!--
 **asamaatarek/asamaatarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
