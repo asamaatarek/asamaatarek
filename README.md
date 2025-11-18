@@ -25,7 +25,8 @@
 
 ### 🚀 Featured Projects
 - **ITI Graduation Project — HERA: HR Management System**
-  Django, React.js, PostgreSQL, GenAI.
+  modules for HR operations (recruitment, attendance, payroll, tasks) with  AI-assisted candidate evaluation, location-based check-in/out, and a bilingual chatbot 
+  (Django, React.js, PostgreSQL, GenAI).
   
 - **CI/CD Pipeline with Jenkins & Docker**  
   Automated building, testing, and deployment of a Dockerized Flask app on AWS EC2 using Ansible.
