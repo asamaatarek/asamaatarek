@@ -25,6 +25,7 @@
 
 ### 🚀 Featured Projects
 - **ITI Graduation Project — HERA: HR Management System**
+  
   modules for HR operations (recruitment, attendance, payroll, tasks) with  AI-assisted candidate evaluation, location-based check-in/out, and a bilingual chatbot 
   (Django, React.js, PostgreSQL, GenAI).
   
